@@ -8,8 +8,11 @@ It is currently set hardcoded to 50.
 
 ### Getting started
 `python -m pip install pipenv`
+
 `pipenv sync --dev`
+
 `pipenv shell`
+
 `python src/filter_empty_videos.py --help`
 
 ### Dry-Run
